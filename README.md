@@ -3032,7 +3032,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Sourced B2B provider profiles: who each offering fits, who it doesn't, limits and unknowns, with checked dates.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
   [![AgentReader MCP connector](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader)
-  🔓 - Turn bloated HTML, JS-only pages and PDFs into compact Markdown; 5 free reads/day, $10 for 7,000 reads or x402 per call.
+  🔓 - Any URL, JS-only page or PDF as compact Markdown; 5 free reads/day, then card packs ($3/2,000 or $10/7,000 reads + VAT where applicable) or x402 per call.
 - [Ambolt](https://ambolt.dev) `https://api.ambolt.dev/mcp`
   [![Ambolt MCP connector](https://glama.ai/mcp/connectors/dev.ambolt/ambolt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ambolt/ambolt)
   🔓 - Company registers, tenders, rates and on-chain facts, with source and date on every answer.
